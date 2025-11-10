@@ -31,6 +31,14 @@ Aqui você encontrará **runbooks, scripts, pacotes, tutoriais e ferramentas** r
 
 ---
 
+##Nota de Segurança
+
+> Este repositório contém ferramentas e instruções avançadas. **Leia o
+> `DISCLAIMER.md`** e a pasta `SECURITY/` antes de executar qualquer comando.
+> Teste tudo primeiro em ambientes isolados (VMs, containers, snapshots).
+
+---
+
 ## 🚀 Como usar
 Clone o repositório:
 ```bash
