@@ -24,6 +24,7 @@ uso avançado do Arch Linux (administração, segurança, automação e antifore
 Se concorda com os termos acima, proceda. Caso contrário, NÃO execute os scripts.
 
 ---
+
 ## Cláusula Adicional de Limitação de Responsabilidade
 
 Ao utilizar, clonar ou reproduzir o conteúdo deste repositório, o usuário reconhece
@@ -32,4 +33,4 @@ explícitas ou implícitas, incluindo, mas não se limitando, à adequação par
 específico. O autor não será responsável, sob qualquer teoria jurídica, por danos diretos,
 indiretos, incidentais, consequenciais ou punitivos decorrentes do uso deste material.
 
-Atualizado em: 10 de Novembro de 2025 - Lennon Machado
+**Atualizado em: 10 de Novembro de 2025**
