@@ -1,8 +1,15 @@
-⚠️ Leia o arquivo [DISCLAIMER.md](./DISCLAIMER.md) antes de executar qualquer script.
 
-Licença: [MIT License](https://opensource.org/license/mit/)
+## ⚠️ Nota de Segurança
 
-@2025 - Lennon Machado
+> Este repositório contém ferramentas e instruções avançadas. **Leia o
+> `DISCLAIMER.md`** e a pasta `SECURITY/` antes de executar qualquer comando.
+> Teste tudo primeiro em ambientes isolados (VMs, containers, snapshots).
+
+**Leia o arquivo [DISCLAIMER.md](./DISCLAIMER.md) antes de executar qualquer script.**
+
+**Licença:** [MIT License](https://opensource.org/license/mit/)
+
+**@2025 - Lennon Machado**
 
 ---
 
@@ -36,14 +43,6 @@ Aqui você encontrará **runbooks, scripts, pacotes, tutoriais e ferramentas** r
 - tutoriais/ → anotações, dicas e explicações sobre ferramentas  
 - ferramentas/ → utilitários próprios ou adaptados para Arch  
 - pacotes/ → links, configurações ou PKGBUILDs úteis  
-
----
-
-## ⚠️ Nota de Segurança
-
-> Este repositório contém ferramentas e instruções avançadas. **Leia o
-> `DISCLAIMER.md`** e a pasta `SECURITY/` antes de executar qualquer comando.
-> Teste tudo primeiro em ambientes isolados (VMs, containers, snapshots).
 
 ---
 
