@@ -31,7 +31,7 @@ Aqui você encontrará **runbooks, scripts, pacotes, tutoriais e ferramentas** r
 
 ---
 
-## Nota de Segurança
+## ⚠️ Nota de Segurança
 
 > Este repositório contém ferramentas e instruções avançadas. **Leia o
 > `DISCLAIMER.md`** e a pasta `SECURITY/` antes de executar qualquer comando.
