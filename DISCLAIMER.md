@@ -32,5 +32,3 @@ que o material é fornecido **“no estado em que se encontra”**, sem garantia
 explícitas ou implícitas, incluindo, mas não se limitando, à adequação para um propósito
 específico. O autor não será responsável, sob qualquer teoria jurídica, por danos diretos,
 indiretos, incidentais, consequenciais ou punitivos decorrentes do uso deste material.
-
-**Atualizado em: 10 de Novembro de 2025**
