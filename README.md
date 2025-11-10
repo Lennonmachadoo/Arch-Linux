@@ -1,3 +1,11 @@
+⚠️ Leia o arquivo [DISCLAIMER.md](./DISCLAIMER.md) antes de executar qualquer script.
+
+Licença: [MIT License](https://opensource.org/license/mit/)
+
+@2025 - Lennon Machado
+
+---
+
 # 🐧 Arch Linux – Runbooks, Ferramentas e Guias
 
 Este repositório é um espaço aberto para **conteúdos práticos voltados ao Arch Linux**, cobrindo desde o básico até tópicos avançados.  
