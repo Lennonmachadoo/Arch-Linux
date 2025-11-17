@@ -50,4 +50,4 @@ Aqui você encontrará **runbooks, scripts, pacotes, tutoriais e ferramentas** r
 Clone o repositório:
 ```bash
 git clone https://github.com/Lennonmachadoo/Arch-Linux.git
-cd Arch-Linux
+cd arch-linux
