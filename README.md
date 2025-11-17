@@ -49,5 +49,5 @@ Aqui você encontrará **runbooks, scripts, pacotes, tutoriais e ferramentas** r
 ## 🚀 Como usar
 Clone o repositório:
 ```bash
-git clone https://github.com/Lennonmachadoo/Arch-Linux.git
+git clone https://github.com/Lennonmachadoo/arch-linux.git
 cd arch-linux
